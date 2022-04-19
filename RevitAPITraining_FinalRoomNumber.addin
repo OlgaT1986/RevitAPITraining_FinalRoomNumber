@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns> 
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining_FinalRoomNumber.dll"</Assembly>
+		<AddInId>9069FB94-8155-4F30-B35B-A740F8BDD7D1</AddInId>
+		<FullClassName>RevitAPITraining_FinalRoomNumber.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Итоговое_задание_номерЭтажа_номерПомещения</Text>
+	</AddIn>
+</RevitAddIns> 
